@@ -2,22 +2,22 @@
 
 🔹 1. Goals and Applications of Networks
 🌐 Goals:
-Resource Sharing (e.g., files, printers)
+- Resource Sharing (e.g., files, printers)
 
-Communication (e.g., email, VoIP, video conferencing)
+- Communication (e.g., email, VoIP, video conferencing)
 
-Access to Remote Information (web browsing, FTP)
+- Access to Remote Information (web browsing, FTP)
 
-Centralized Management & Control (for admins/security)
+- Centralized Management & Control (for admins/security)
 
-Reliability & Fault Tolerance
+- Reliability & Fault Tolerance
 
 ⚔️ Cybersecurity Focus:
-Understand attack surfaces in each service (e.g., DNS poisoning, email spoofing)
+- Understand attack surfaces in each service (e.g., DNS poisoning, email spoofing)
 
-Secure communication channels (TLS, VPNs)
+- Secure communication channels (TLS, VPNs)
 
-Monitor shared resources for misuse
+- Monitor shared resources for misuse
 
 🔹 2. Categories of Networks
 Category	Description	Example
