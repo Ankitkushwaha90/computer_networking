@@ -151,7 +151,7 @@ Translates domain names (e.g., `google.com`) into IP addresses.
 
 ## 🧠 Summary Table
 
-```mdx:table
+table
 | Component       | Protocol        | Common Port  | Security Concern               | Tool Example                 |
 |----------------|------------------|--------------|--------------------------------|------------------------------|
 | DNS            | DNS              | 53           | Spoofing, Tunneling            | dig, dnsspoof                |
